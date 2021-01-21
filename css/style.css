@@ -1,0 +1,41 @@
+body{
+    font-family:Helvetica;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+header{
+    background: #AF7675;
+    padding: 25px;
+}
+
+.contact:hover,.home:hover,.me:hover,.services:hover {
+    font-weight: bold;
+}
+div {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+footer {
+    display: flex;
+    justify-content: center;
+}
+#iam {
+    color: #AF7675;
+}
+button {
+    text-decoration: none;
+    padding: 10px;
+    background-color: #AF7675;
+    border-radius: 6px;
+    border: 1px solid;
+}
+
+
