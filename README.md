@@ -1,5 +1,7 @@
 # website_dinamico
 
+<p>This is my first personal website, here you will find:</p>
+
 <h2>Table of contents</h2>
 
 <ul>
